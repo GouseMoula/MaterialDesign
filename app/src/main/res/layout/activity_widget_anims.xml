@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="com.anims.WidgetActivity">
+
+    <RelativeLayout
+        android:id="@+id/rl_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary">
+
+        <ImageView
+            android:id="@+id/item_image_back"
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_arrow_back" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="Image View Animations"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <Spinner
+        android:id="@+id/spinner_widget"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/rl_toolbar"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="20dp"
+        android:dropDownHeight="200dp"
+        android:dropDownWidth="wrap_content"
+        android:padding="10dp"
+        android:popupBackground="@android:color/white">
+
+    </Spinner>
+
+    <ImageView
+        android:id="@+id/img_widget"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_centerInParent="true"
+        android:contentDescription="@null"
+        app:srcCompat="@drawable/orio2" />
+    <!--app:srcCompat="@drawable/ic_launcher_foreground"-->
+    <TextView
+        android:id="@+id/tv_btn_widget"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="20dp"
+        android:background="?attr/colorPrimary"
+        android:gravity="center"
+        android:text="Start Animation"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+</RelativeLayout>

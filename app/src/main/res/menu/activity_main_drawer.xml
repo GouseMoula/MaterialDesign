@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <!--android:checkableBehavior="single"-->
+
+    <group>
+        <item
+            android:id="@+id/nav_main_material_design"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_recyler_view"
+            android:icon="@drawable/ic_list_recycle"
+            android:title="Recycler View" />
+    </group>
+
+    <item android:title="Animations">
+        <menu>
+            <item
+                android:id="@+id/nav_anims_list"
+                android:icon="@drawable/ic_list_recycle"
+                android:title="List View Animations" />
+            <item
+                android:id="@+id/nav_anims_viewpager"
+                android:icon="@drawable/ic_view_carousel"
+                android:title="View Pager Transformers" />
+            <item
+                android:id="@+id/nav_anims_image_view"
+                android:icon="@drawable/ic_image"
+                android:title="Image View Animations" />
+        </menu>
+    </item>
+    <group android:id="@+id/group2">
+        <item
+            android:id="@+id/nav_fullscreen"
+            android:icon="@drawable/ic_fullscreen"
+            android:title="Full Screen" />
+        <item
+            android:id="@+id/nav_bottom_nav"
+            android:icon="@drawable/ic_more_horiz"
+            android:title="Bottom Navigation" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="Settings" />
+    </group>
+    <group android:id="@+id/nav_group_2">
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_error"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_donation"
+            android:icon="@drawable/ic_donation"
+            android:title="Donations" />
+    </group>
+    <item android:title="My Apps">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/material_design_color"
+                android:title="Material Design Color" />
+        </menu>
+    </item>
+
+
+</menu>

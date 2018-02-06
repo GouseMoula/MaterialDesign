@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Material Design</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="toggle_button">Toggle Button</string>
+    <string name="switch_text">Switch</string>
+    <string name="text_input_layout">Text Input Layout</string>
+    <string name="edit_text">Edit text</string>
+    <string name="check_box">Check Box</string>
+    <string name="checkbox_1">CheckBox 1</string>
+    <string name="checkbox_2">CheckBox 2</string>
+    <string name="check_box_3">CheckBox 3</string>
+    <string name="radio_group_and_radio_buttons">Radio Group and Radio Buttons</string>
+    <string name="radiobutton_1">RadioButton 1</string>
+    <string name="radio_button_2">RadioButton 2</string>
+    <string name="radiobutton_3">RadioButton 3</string>
+    <string name="seekbar">Seek Bar</string>
+    <string name="progress_bar">Progress Bar</string>
+    <string name="spinner">Spinner</string>
+    <string name="spinner_item">Spinner item</string>
+    <string name="date_picker">Date Picker</string>
+    <string name="time_picker">Time Picker</string>
+
+
+    <string name="fragment_1_title">Cards</string>
+    <string name="fragment_2_title">Themes</string>
+    <string name="fragment_3_title">Widgets</string>
+
+    <string name="list_item_text_1">Red Theme</string>
+    <string name="list_item_text_2">Pink Theme</string>
+    <string name="list_item_text_3">Purple Theme</string>
+    <string name="list_item_text_4">Indigo Theme</string>
+    <string name="list_item_text_5">Blue Theme</string>
+    <string name="list_item_text_6">Teal Theme</string>
+    <string name="list_item_text_7">Green Theme</string>
+    <string name="list_item_text_8">Orange Theme</string>
+    <string name="list_item_text_9">Deep Orange Theme</string>
+    <string name="list_item_text_10">Brown Theme</string>
+    <string name="list_item_text_11">Blue Gray Theme</string>
+    <string name="click_to_start_login_activity">Click to start login activity</string>
+
+
+
+    <!--Recycler App-->
+    <string name="year_2018">2018</string>
+    <string name="year_2017">2017</string>
+    <string name="year_2019">2019</string>
+
+    <string name="movie_1_title">Robot 2.0</string>
+    <string name="movie_2_title">MCA</string>
+    <string name="movie_3_title">Padmavati</string>
+    <string name="movie_4_title">Tiger Zinda Hai</string>
+    <string name="movie_5_title">Padman</string>
+    <string name="movie_6_title">Thugs of Hindostan</string>
+    <string name="movie_7_title">X-MEN: The New Mutants</string>
+    <string name="movie_8_title">Avengers: Infinity War</string>
+    <string name="movie_9_title">Jurassic World: Fallen Kingdom</string>
+    <string name="movie_10_title">Saaho</string>
+
+    <string name="movie_1_starcast">Rajinikanth, Akshay Kumar, Amy Jackson</string>
+    <string name="movie_2_starcast">Nani, Sai Pallavi</string>
+    <string name="movie_3_starcast">Deepika Padukone, Shahid Kapoor, Ranveer Singh, Aditi Rao Hydari, Jim Sarbh</string>
+    <string name="movie_4_starcast">Salman Khan, Katrina Kaif</string>
+    <string name="movie_5_starcast">Akshay Kumar, Sonam Kapoor, Radhika Apte</string>
+    <string name="movie_6_starcast">Amitabh Bachchan, Aamir Khan, Katrina Kaif, Fatima Sana Shaikh, Jackie Shroff, Shashank Arora</string>
+    <string name="movie_7_starcast">Anya Taylor-Joy, Maisie Williams, Charlie Heaton, Henry Zaga, Blu Hunt, Alice Braga</string>
+    <string name="movie_8_starcast">Robert Downey Jr. Josh Brolin, Mark Ruffalo, Tom Hiddleston, Chris Evans, Chris Hemsworth, Jeremy Renner</string>
+    <string name="movie_9_starcast">Chris Pratt, Bryce Dallas Howard, B. D. Wong, James Cromwell, Ted Levine, Justice Smith, Geraldine Chaplin</string>
+    <string name="movie_10_starcast">Prabhas, Shraddha Kapoor, Arun Vijay, Neil Nitin Mukesh</string>
+
+
+    <string name="movie_1_director">S. Shankar</string>
+    <string name="movie_2_director">Venu Sree Raam</string>
+    <string name="movie_3_director">Sanjay Leela Bhansali</string>
+    <string name="movie_4_director">Ali Abbas Zafar</string>
+    <string name="movie_5_director">R. Balki</string>
+    <string name="movie_6_director">Vijay Krishna Acharya</string>
+    <string name="movie_7_director">Josh Boone</string>
+    <string name="movie_8_director">Anthony Russo and Joe Russo</string>
+    <string name="movie_9_director">Juan Antonio Bayona</string>
+    <string name="movie_10_director">Sujeeth</string>
+
+    <string name="movie_1_music_director">A. R. Rahman</string>
+    <string name="movie_2_music_director">Devi Sri Prasad</string>
+    <string name="movie_3_music_director">Sanchit Balhara,Sanjay Leela Bhansali</string>
+    <string name="movie_4_music_director">Pritam Chakraborty</string>
+    <string name="movie_5_music_director">Amit Trivedi</string>
+    <string name="movie_6_music_director">Ajay Atul</string>
+    <string name="movie_7_music_director">Josh Boone</string>
+    <string name="movie_8_music_director">Alan Silvestri</string>
+    <string name="movie_9_music_director">Michael Giacchino</string>
+    <string name="movie_10_music_director">Shankar–Ehsaan–Loy</string>
+
+
+    <string name="movie_name">Movie Name</string>
+    <string name="release_year">Release year</string>
+    <string name="director">Director</string>
+
+
+    <!--Animations App-->
+    <string name="hello_animations">Hello Animations!</string>
+    <string name="start_animation">Start Animation</string>
+    <string name="android_animation_studio">Android Animation Studio</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="colen">:</string>
+    <string name="music_by">Music By</string>
+    <string name="dummy_title">dummy title</string>
+    <string name="starring">Starring</string>
+    <string name="image_view_animations">Image View Animations</string>
+    <string name="dummy_year">dummy year</string>
+    <string name="dummy_director">dummy director</string>
+
+</resources>
